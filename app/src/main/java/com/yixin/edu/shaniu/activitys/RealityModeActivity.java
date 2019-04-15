@@ -1,12 +1,10 @@
-package com.yixin.edu.shaniu;
+package com.yixin.edu.shaniu.activitys;
 
-import android.media.MediaPlayer;
-import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.TextView;
-import android.widget.VideoView;
+
+import com.yixin.edu.shaniu.R;
 
 public class RealityModeActivity extends AppCompatActivity {
     LoginActivity loginActivity=new LoginActivity();

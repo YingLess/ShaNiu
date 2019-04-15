@@ -1,4 +1,4 @@
-package com.yixin.edu.shaniu;
+package com.yixin.edu.shaniu.activitys;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
